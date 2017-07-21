@@ -1,0 +1,1 @@
+Casify Piwigo: ajoute la possibilité de se connecter à l'aide de phpCAS
